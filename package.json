@@ -1,0 +1,14 @@
+{
+  "name": "vitest-duplicate-resolveid-repro-1",
+  "description": "Small reproduction to demonstrate secondary resolveId calls",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "2.0.5"
+  },
+  "volta": {
+    "node": "18.18.2",
+    "yarn": "1.22.19"
+  }
+}
